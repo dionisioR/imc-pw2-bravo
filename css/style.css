@@ -1,0 +1,15 @@
+.bg-pink{
+    background-color: rgb(211, 8, 42);
+    color: bisque;
+}
+
+.btn-pink{
+    background-color:  rgb(211, 8, 42);
+    color: bisque;
+}
+
+.btn-pink:hover{
+    background-color: bisque;
+    color: rgb(211, 8, 42);
+    border: 1px solid rgb(211, 8, 42);
+}
